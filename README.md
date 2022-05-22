@@ -1,3 +1,7 @@
+##  This is a fork from [RuntimeUnityEditor](https://github.com/ManlyMarco/RuntimeUnityEditor) which makes it compatible with Unity 4.1.
+
+And to do so **some features have been cut off** for now, in the future they may be reimplemented, but the core Scene Browser, the Console and Component viewer are still working
+
 # Runtime Unity Editor / Debugging Tools
 In-game inspector, editor and interactive console for applications made with Unity3D game engine. It's designed for debugging and modding Unity games, but can also be used as a universal trainer.
 
